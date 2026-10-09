@@ -1,0 +1,38 @@
+{
+  "itemGroup.treasurebuilder.tools": "Treasure Builder",
+  "item.treasurebuilder.build_tool": "Herramienta de construcción",
+  "item.treasurebuilder.delete_tool": "Herramienta de borrado",
+  "item.treasurebuilder.scale_tool": "Herramienta de escala",
+  "item.treasurebuilder.rotate_tool": "Llana (herramienta de rotación)",
+  "item.treasurebuilder.anchor_tool": "Herramienta de anclaje",
+  "item.treasurebuilder.glass_tool": "Herramienta de transparencia",
+  "entity.treasurebuilder.part": "Pieza de construcción",
+
+  "tooltip.treasurebuilder.build": "Clic derecho: colocar · Clic izquierdo: copiar bloque · [B] menú de bloques",
+  "tooltip.treasurebuilder.delete": "Clic en una pieza para borrarla · Agacharse: toda la estructura",
+  "tooltip.treasurebuilder.scale": "Clic derecho: agrandar cara · Clic izquierdo: reducir · Agacharse: todos los ejes · [V] paso",
+  "tooltip.treasurebuilder.rotate": "Clic derecho: rotar + · Clic izquierdo: rotar - · [V] ángulo",
+  "tooltip.treasurebuilder.anchor": "Clic: alternar ancla / física · Agacharse: toda la estructura",
+  "tooltip.treasurebuilder.glass": "Clic derecho: más transparente · Clic izquierdo: menos · Agacharse: restablecer · [V] paso",
+
+  "key.categories.treasurebuilder": "Treasure Builder",
+  "key.treasurebuilder.menu": "Abrir menú de bloques",
+  "key.treasurebuilder.cycle": "Cambiar paso de la herramienta",
+
+  "screen.treasurebuilder.blocks": "Bloques",
+  "screen.treasurebuilder.search": "Buscar bloques...",
+  "screen.treasurebuilder.hint": "Clic en un bloque para elegirlo · Rueda para desplazar",
+  "hud.treasurebuilder.hint": "[B] menú de bloques",
+
+  "msg.treasurebuilder.noPart": "Apunta a una pieza",
+  "msg.treasurebuilder.size": "Tamaño: %s × %s × %s px",
+  "msg.treasurebuilder.rot": "Rotación: %s°",
+  "msg.treasurebuilder.alpha": "Opacidad: %s%%",
+  "msg.treasurebuilder.anchored": "Anclado",
+  "msg.treasurebuilder.free": "Desanclado (física activada)",
+  "msg.treasurebuilder.selected": "Bloque: %s",
+  "msg.treasurebuilder.step.scale": "Paso de escala: %s px",
+  "msg.treasurebuilder.step.rot": "Paso de rotación: %s°",
+  "msg.treasurebuilder.step.alpha": "Paso de opacidad: %s%%",
+  "msg.treasurebuilder.cleared": "Se eliminaron %s piezas"
+}

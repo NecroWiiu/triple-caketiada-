@@ -1,0 +1,38 @@
+{
+  "itemGroup.treasurebuilder.tools": "Treasure Builder",
+  "item.treasurebuilder.build_tool": "Build Tool",
+  "item.treasurebuilder.delete_tool": "Delete Tool",
+  "item.treasurebuilder.scale_tool": "Scale Tool",
+  "item.treasurebuilder.rotate_tool": "Trowel (Rotate Tool)",
+  "item.treasurebuilder.anchor_tool": "Anchor Tool",
+  "item.treasurebuilder.glass_tool": "Transparency Tool",
+  "entity.treasurebuilder.part": "Build Part",
+
+  "tooltip.treasurebuilder.build": "Right-click: place · Left-click: pick block · [B] block menu",
+  "tooltip.treasurebuilder.delete": "Click a part to delete it · Sneak: whole structure",
+  "tooltip.treasurebuilder.scale": "Right-click: grow face · Left-click: shrink · Sneak: all axes · [V] step",
+  "tooltip.treasurebuilder.rotate": "Right-click: rotate + · Left-click: rotate - · [V] angle",
+  "tooltip.treasurebuilder.anchor": "Click: toggle anchor / physics · Sneak: whole structure",
+  "tooltip.treasurebuilder.glass": "Right-click: more transparent · Left-click: less · Sneak: reset · [V] step",
+
+  "key.categories.treasurebuilder": "Treasure Builder",
+  "key.treasurebuilder.menu": "Open block menu",
+  "key.treasurebuilder.cycle": "Change tool step",
+
+  "screen.treasurebuilder.blocks": "Blocks",
+  "screen.treasurebuilder.search": "Search blocks...",
+  "screen.treasurebuilder.hint": "Click a block to select it · Scroll for more",
+  "hud.treasurebuilder.hint": "[B] block menu",
+
+  "msg.treasurebuilder.noPart": "Point at a part",
+  "msg.treasurebuilder.size": "Size: %s × %s × %s px",
+  "msg.treasurebuilder.rot": "Rotation: %s°",
+  "msg.treasurebuilder.alpha": "Opacity: %s%%",
+  "msg.treasurebuilder.anchored": "Anchored",
+  "msg.treasurebuilder.free": "Unanchored (physics on)",
+  "msg.treasurebuilder.selected": "Block: %s",
+  "msg.treasurebuilder.step.scale": "Scale step: %s px",
+  "msg.treasurebuilder.step.rot": "Rotation step: %s°",
+  "msg.treasurebuilder.step.alpha": "Opacity step: %s%%",
+  "msg.treasurebuilder.cleared": "Removed %s parts"
+}

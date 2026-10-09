@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "treasurebuilder",
+  "version": "${version}",
+  "name": "Treasure Builder",
+  "description": "Herramientas de construcción estilo Build a Boat for Treasure: construir, borrar, escalar por píxel, rotar, anclar/desanclar con física y transparencia.",
+  "authors": [ "Treasure Builder" ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.treasurebuilder.TreasureBuilder" ],
+    "client": [ "com.treasurebuilder.client.TreasureBuilderClient" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
